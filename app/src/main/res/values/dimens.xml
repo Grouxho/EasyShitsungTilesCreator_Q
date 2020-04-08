@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="qs_detail_content_primary_text_size">15.0sp</dimen>
+    <dimen name="qs_detail_item_primary_text_size">15.0sp</dimen>
+    <dimen name="qs_detail_item_secondary_text_size">13.0sp</dimen>
+    <dimen name="qs_detail_divider_height">2.0px</dimen>
+
+    <dimen name="qs_detail_empty_text_size">16.0sp</dimen>
+    <dimen name="qs_detail_header_height">64.0dip</dimen>
+    <dimen name="qs_detail_header_padding">0.0dip</dimen>
+    <dimen name="sec_qs_detail_items_side_padding">24.0dip</dimen>
+    <dimen name="sec_qs_detail_settings_padding_bottom">18.0dip</dimen>
+</resources>

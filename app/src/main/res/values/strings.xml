@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Easy  Shitsung Tiles Creator</string>
+    <string name="adapter_simulator">Detail Adapter Simulator</string>
+
+    <!-- Template 1 -->
+
+    <string name="template1_tiletext">Template 1</string>
+
+    <!-- Template2 -->
+
+    <string name="templatetwo_tileon">On</string>
+    <string name="templatetwo_tileoff">Off</string>
+    <string name="templatetwo_detail_header_label">Template Two</string>
+    <string name="templatetwo_adapter_title">Template Two - Adapter Title!!</string>
+
+
+    <!--    -->
+
+
+    <string name="gs_sofftime_detail_title">Screen Off Time</string>
+    <string name="gs_sofftime_psm_detail_title">Screen Off time in Power Save Mode</string>
+    <string name="gs_screenofftime_tile_string">Screen Off Time</string>
+    <string name="gs_screenofftime_adapter_string">Current Screen Off Time</string>
+    <string name="gs_screenofftime_adapter_lstitle">Screen Off Time in Lock Screen</string>
+
+    <string name="qs_recovery_tile">Recovery</string>
+    <string name="qs_recovery_confirmation">Enable confirmation dialog</string>
+    <string name="qs_recovery_confirmation_message">Are ytou sure you want to go to recovery?</string>
+
+    <string name="qs_powmenu_tile">Recovery</string>
+    <string name="qs_powmenu_confirmation">Enable confirmation dialog</string>
+    <string name="qs_powmenu_confirmation_message">Are ytou sure you want to go to recovery?</string>
+
+
+
+	
+	
+	<string name="tmus_recovery">Recovery</string>
+    <string name="tmus_powmenu">Global Actions</string>
+    <string name="tmus_restart">Restart</string>
+    <string name="tmus_powoff">Power Off</string>
+    <string name="tmus_download">Download</string>
+    <string name="tmus_resui">Restart UI</string>
+    <string name="tmus_screenoff">Screen Off</string>
+    <string name="tmus_safemode">Safe Mode</string>
+	
+	<string name="tmus_msgdialog">Are you sure you want to run this action?</string>
+	<string name="tmus_adapteroptions">Options</string>
+    <string name="tmus_adaptertitle">Grx Multi Action Tile</string>
+    <string name="tmus_adaptertitle_help">Long press to change tile action. Double Click on the Icon to change the action or to run an Action</string>
+    <string name="tmss_select_action_title">Select or Run Action</string>
+    <string name="tmus_select">Select</string>
+    <string name="tmus_run">Run</string>
+	
+    <string name="tmus_options_help">Enable or disable confirmation dialogs for each action</string>
+
+
+    <!-- Dark Mode -->
+
+    <string name="darkmode_on">Dark Mode</string>
+    <string name="darkmode_off">Light Mode</string>
+    <string name="darkmode_auto">Dark Mode Auto</string>
+	
+	
+	<!-- Outdoor Mode -->
+
+	<string name="outdoor_mode">Outdoor Mode</string>
+    <string name="outdoor_mode_message">When enabled Outdoor Mode the brightness will be increased significantly for a maximum time of 15 mins.</string>
+    <string name="outdoor_mode_maxtitle">Outdoor Mode Max. Time</string>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<com.android.keyguard.AlphaOptimizedLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_margin="5dp" android:text="@string/tmus_adaptertitle_help" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"/>
+    <TextView android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_gravity="center" android:gravity="center" android:text="@string/tmus_adapteroptions" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"/>
+    <TextView android:layout_margin="5dp" android:text="@string/tmus_options_help" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+        <TextView android:text="@string/tmus_recovery" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"  />
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:tag= "2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+        <TextView android:text="@string/tmus_restart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"  />
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:tag= "3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+        <TextView android:text="@string/tmus_powoff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"  />
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:tag= "4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+        <TextView android:text="@string/tmus_download" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"  />
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:tag= "5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+        <TextView android:text="@string/tmus_resui" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"  />
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:tag= "6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+        <TextView android:text="@string/tmus_safemode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary"  />
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:tag= "7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+
+
+
+
+
+</com.android.keyguard.AlphaOptimizedLinearLayout>

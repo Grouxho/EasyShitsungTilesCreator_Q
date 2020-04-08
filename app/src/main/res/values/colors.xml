@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="qs_detail_item_name">@color/qs_detail_header_text_color</color>
+    <color name="qs_detail_header_text_color">#ff252525</color>
+    <color name="qs_detail_secondary_text_color">#ff979797</color>
+    <color name="qs_detail_divider">@color/qs_detail_list_divider_color</color>
+    <color name="qs_detail_list_divider_color">#33252525</color>
+    <color name="qs_detail_empty_text">#ff505050</color>
+</resources>

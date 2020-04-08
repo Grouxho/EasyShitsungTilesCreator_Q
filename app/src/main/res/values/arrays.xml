@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tmu_drawable_names">
+        <item>grx_tile_screenoff</item>
+        <item>grx_tile_powmen</item>
+        <item>grx_tile_recovery</item>
+        <item>grx_tile_restart</item>
+        <item>grx_tile_powoff</item>
+        <item>grx_tile_download</item>
+        <item>grx_tile_ui</item>
+        <item>grx_tile_safemode</item>
+    </string-array>
+	
+	
+	<string-array name="tmu_titles">
+        <item>@string/tmus_screenoff</item>
+        <item>@string/tmus_powmenu</item>
+        <item>@string/tmus_recovery</item>
+        <item>@string/tmus_restart</item>
+        <item>@string/tmus_powoff</item>
+        <item>@string/tmus_download</item>
+        <item>@string/tmus_resui</item>
+        <item>@string/tmus_safemode</item>
+    </string-array>
+
+    <string-array name="dark_modes">
+        <item>@string/darkmode_auto</item>
+        <item>@string/darkmode_off</item>
+        <item>@string/darkmode_on</item>
+    </string-array>
+
+
+
+</resources>

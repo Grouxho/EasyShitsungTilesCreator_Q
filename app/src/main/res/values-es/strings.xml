@@ -1,0 +1,54 @@
+<resources>
+
+
+    <!-- TemplateTwo Tile -->
+
+    <string name="templatetwo_tileon">Encendido</string>
+    <string name="templatetwo_tileoff">Apagado</string>
+    <string name="templatetwo_detail_header_label">Plantilla 2</string>
+
+    <string name="templatetwo_adapter_title">Plantilla 2 - Título Adapter!!</string>
+
+
+    <!--    -->
+
+    <string name="adapter_simulator">Simulador del Detail Adapter</string>
+
+
+    <string name="qs_recovery_tile">Recovery</string>
+    <string name="qs_recovery_confirmation">Activar diálogo de confirmación</string>
+    <string name="qs_recovery_confirmation_message">Seguro que queres reiniciar en modo recovery?</string>
+    
+
+    <!-- multiuse tile -->
+
+    <string name="tmus_recovery">Recovery</string>
+    <string name="tmus_powmenu">Menu Power</string>
+    <string name="tmus_restart">Reiniciar</string>
+    <string name="tmus_powoff">Apagar</string>
+    <string name="tmus_download">Download</string>
+    <string name="tmus_resui">Reiniciar UI</string>
+    <string name="tmus_screenoff">Apa. Pant.</string>
+    <string name="tmus_safemode">Modo Seguro</string>
+	
+	<string name="tmus_msgdialog">Estás seguro de querer ejecutar esta acción?</string>
+    <string name="tmus_adaptertitle_help">Pulsa largo para ir cambiando de acción. Con doble click podrás seleccionar la acción del Tile o podrás ejecutar cualquier otra acción. </string>
+    <string name="tmus_adapteroptions">Options</string>
+    <string name="tmus_adaptertitle">Grx Tile Multi Función</string>
+    <string name="tmss_select_action_title">Selecciona o Ejecuta Acción</string>
+    <string name="tmus_select">Seleccionar</string>
+    <string name="tmus_run">Ejecutar</string>
+
+    <string name="tmus_options_help">Activa o desactiva diálogos de confirmación para cada acción</string>
+
+    <!-- Dark Mode -->
+
+    <string name="darkmode_on">Modo Oscuro</string>
+    <string name="darkmode_off">Modo Claro</string>
+    <string name="darkmode_auto">Modo Osc. Auto</string>
+
+    <string name="outdoor_mode">Modo Outdoor</string>
+    <string name="outdoor_mode_message">Cuando se activa el Modo OutDoor el brillo se incrementa significativamente durante un máximo de 15 minutos.</string>
+    <string name="outdoor_mode_maxtitle">Tiempo Máximo en Outdoor</string>
+
+</resources>

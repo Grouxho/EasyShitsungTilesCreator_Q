@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextAppearance.QS.DetailContentPrimary" parent="@style/TextAppearance.QS.DetailItemPrimary">
+        <item name="android:textSize">@dimen/qs_detail_content_primary_text_size</item>
+    </style>
+
+    <style name="TextAppearance.QS.DetailItemPrimary" parent="@style/TextAppearance.QS">
+        <item name="android:textSize">@dimen/qs_detail_item_primary_text_size</item>
+        <item name="android:textColor">@color/qs_detail_item_name</item>
+        <item name="android:fontFamily">sec-roboto-light</item>
+    </style>
+
+    <style name="TextAppearance.QS.DetailItemSecondary" parent="@style/TextAppearance.QS">
+        <item name="android:textSize">@dimen/qs_detail_item_secondary_text_size</item>
+        <item name="android:textColor">@color/qs_detail_secondary_text_color</item>
+        <item name="android:fontFamily">sec-roboto-light</item>
+    </style>
+    <style name="TextAppearance.QS" parent="@android:style/TextAppearance">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance" />
+
+    <style name="TextAppearance.QS.DetailHeader" parent="@style/TextAppearance.QS">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff252525</item>
+        <item name="android:fontFamily">sec-roboto-condensed</item>
+    </style>
+
+    <style name="TextAppearance.QS.DetailEmpty" parent="@style/TextAppearance.QS">
+        <item name="android:textSize">@dimen/qs_detail_empty_text_size</item>
+        <item name="android:textColor">@color/qs_detail_empty_text</item>
+        <item name="android:fontFamily">sec-roboto-light</item>
+    </style>
+
+</resources>

@@ -1,0 +1,10 @@
+<com.android.keyguard.AlphaOptimizedLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary" android:text="@string/outdoor_mode_maxtitle" android:gravity="center" android:layout_gravity="center" android:paddingBottom="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textStyle="bold"/>
+    <TextView android:textAppearance="@style/TextAppearance.QS.DetailContentPrimary" android:tag="currtime" android:gravity="center" android:layout_gravity="center" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <SeekBar android:theme="@android:style/Theme.DeviceDefault.Light" android:layout_width="fill_parent" android:layout_height="32.0dip" android:tag="grxseekbar"/>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip" android:paddingBottom="14.0dip">
+        <TextView android:textAppearance="@style/TextAppearance.QS.DetailItemSecondary" android:text="1 min" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentStart="true" />
+        <TextView android:textAppearance="@style/TextAppearance.QS.DetailItemSecondary" android:text="60 min" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</com.android.keyguard.AlphaOptimizedLinearLayout>
